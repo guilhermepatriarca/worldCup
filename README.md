@@ -4,3 +4,4 @@
 * ``` git commit -m <messagem> ``` // Tem sempre que conter uma messagem
 * ``` git log ``` // Mostra tudos os commits 
 * ``` git push ``` // envia para o servidor 
+* ``` git diff ``` // mostra a diferença entre commits
