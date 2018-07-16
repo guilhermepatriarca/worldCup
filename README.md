@@ -1,4 +1,5 @@
 # Comandos de GIT
+* ``` git init <nome do repositorio> ``` // Criar repositório
 *  ``` git add <nome do Ficheiro> ``` //ou// ```git add . ```// Todos os ficheiros
 * ``` git status ``` // Verificar se o estado do git add e do Commit
 * ``` git commit -m <messagem> ``` // Tem sempre que conter uma messagem
