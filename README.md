@@ -1,4 +1,4 @@
-# Comando de GIT
+# Comandos de GIT
 *  ``` git add <nome do Ficheiro> ``` //ou// ```git add . ```// Todos os ficheiros
 * ``` git status ``` // Verificar se o estado do git add e do Commit
 * ``` git commit -m <messagem> ``` // Tem sempre que conter uma messagem
