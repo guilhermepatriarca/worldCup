@@ -6,3 +6,4 @@
 * ``` git log ``` // Mostra tudos os commits 
 * ``` git push ``` // envia para o servidor 
 * ``` git diff ``` // mostra a diferença entre commits
+* ``` git checkout ``` // poder navegar na linha do tempo para outro commit 
