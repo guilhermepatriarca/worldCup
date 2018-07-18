@@ -10,3 +10,6 @@
     * ``` git checkout -- <nomeFicheiro> ``` // Desfaz o que foi feito - mas sem fazer "git add" -
     * ``` git checkout HEAD -- <nomeFicheiro> ``` // Desfaz o que foi feito - se fez "git add" -
 * ``` git reverse <commit> ``` // Reverte para o commit selecionado
+* ``` git branch <nome> ``` // Novo Branch
+    * ``` git branch  ``` // Ver todos os Branchs
+    * ``` git checkout  <nomeBranch> ``` // Mudar de Branch
