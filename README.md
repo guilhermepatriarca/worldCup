@@ -7,3 +7,6 @@
 * ``` git push ``` // envia para o servidor 
 * ``` git diff ``` // mostra a diferença entre commits
 * ``` git checkout ``` // poder navegar na linha do tempo para outro commit 
+    * ``` git checkout -- <nomeFicheiro> ``` // Desfaz o que foi feito - mas sem fazer "git add" -
+    * ``` git checkout HEAD -- <nomeFicheiro> ``` // Desfaz o que foi feito - se fez "git add" -
+* ``` git reverse <commit> ``` // Reverte para o commit selecionado
