@@ -13,4 +13,5 @@
 * ``` git branch <nome> ``` // Novo Branch
     * ``` git branch  ``` // Ver todos os Branchs
     * ``` git checkout  <nomeBranch> ``` // Mudar de Branch
-* ``` git merge <nomeBranch> ``` // Juntar ambos os branch's
+* ``` git merge <nomeBranch> ``` // Juntar ambos os branch's !- deve evitar -!  - deve ser usado para o master
+* ``` git rebase <nomeBranch> ``` // Juntar ambos os branch's - deve ser usado no branch dev onde tens muito trabalho
